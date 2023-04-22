@@ -1,0 +1,4 @@
+syslog 0
+cups-pk-helper 0
+linux 21
+linux2 0
